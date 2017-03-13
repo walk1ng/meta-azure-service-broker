@@ -37,6 +37,7 @@ node_modules
 pcf-tile/product
 pcf-tile/release
 pcf-tile/resources/meta-azure-service-broker.zip
+tile-generator/
 
 # IDE
 .vscode/

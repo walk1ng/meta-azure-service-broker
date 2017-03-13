@@ -4,7 +4,7 @@
 
   ```
   virtualenv -p python2 tile-generator
-  source tile-generator/bin/activate
+  . tile-generator/Scripts/activate
   pip install tile-generator
   ```
 
