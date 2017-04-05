@@ -28,16 +28,16 @@
     "async": "1.5.2",
     "config": "1.21.0",
     "http-status-codes": "1.0.6",
-    "winston": "2.3.1",
-    "ms-rest-azure": "1.14.5",
+    "moment": "2.17.1",
+    "ms-rest-azure": "^1.14.5",
     "mssql": "3.1.2",
-    "request": "2.72.0",
-    "restify": "4.3.0",
+    "request": "^2.74.0",
+    "restify": "^4.3.0",
     "semver": "5.1.0",
     "string": "3.3.1",
     "underscore": "1.8.3",
     "uuid": "3.0.1",
-    "moment": "2.17.1"
+    "winston": "2.3.1"
   },
   "devDependencies": {
     "azure": "0.10.6",
